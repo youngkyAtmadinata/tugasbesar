@@ -3,7 +3,7 @@
 $servername = "127.0.0.1";
 $username = "root";
 $password = "";
-$dbname = "bootstrap";
+$dbname = "sistemsewa";
 
 // create connection
 $connect = new mysqli($servername, $username, $password, $dbname);
