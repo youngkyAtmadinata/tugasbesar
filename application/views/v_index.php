@@ -90,7 +90,7 @@
       <article class="one_third first"><a href="#"><img class="btmspace-30" src="images/demo/01.jpg" alt=""></a>
         <h6 class="nospace heading">Kelas A</h6>
         <ul class="nospace meta">
-          <li><i class="fa fa-user"></i> <a href="#">Admin</a></li>
+         
          
         </ul>
         <p>Di kamar ini terdapat&hellip;</p>
@@ -99,7 +99,7 @@
       <article class="one_third"><a href="#"><img class="btmspace-30" src="images/demo/02.jpg" alt=""></a>
         <h6 class="nospace heading">Kelas B</h6>
         <ul class="nospace meta">
-          <li><i class="fa fa-user"></i> <a href="#">Admin</a></li>
+    
          
         </ul>
         <p>Di kamar ini terdapat&hellip;</p>
@@ -108,7 +108,7 @@
       <article class="one_third"><a href="#"><img class="btmspace-30" src="images/demo/03.jpg" alt=""></a>
         <h6 class="nospace heading">Kelas C</h6>
         <ul class="nospace meta">
-          <li><i class="fa fa-user"></i> <a href="#">Admin</a></li>
+ 
          
         </ul>
         <p>Di kamar ini terdapat&hellip;</p>
