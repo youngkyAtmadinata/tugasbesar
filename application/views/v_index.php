@@ -35,23 +35,12 @@
 		
       <li><a class="drop" href="#">GALERI</a>
         <ul>
-		  <li><a href="pages/sidebar-left.html"></a></li>
-          <li><a href="pages/gallery.html"></a></li>
-          <li><a href="pages/full-width.html"></a></li>
+		  <li><a href="pages/sidebar-left.html"></a>Kelas A</li>
+          <li><a href="pages/gallery.html"></a>Kelas B</li>
+          <li><a href="pages/full-width.html"></a>Kelas C</li>
         </ul>
       </li>
-        <ul>
-          <li><a href="#">Level 2</a></li>
-          <li><a class="drop" href="#">Level 2 + Drop</a>
-            <ul>
-              <li><a href="#"></a></li>
-              <li><a href="#"></a></li>
-              <li><a href="#"></a></li>
-            </ul>
-          </li>
-          <li><a href="#">Level 2</a></li>
-        </ul>
-      </li>
+
 	   <li></li>
 	   <li><a href="login/login.php">LOGIN ADMIN</a></li>
 
@@ -87,14 +76,16 @@
       <p>Dibedakan Menjadi beberapa kelas</p>
     </div>
     <div class="group">
-      <article class="one_third first"><a href="#"><img class="btmspace-30" src="images/demo/01.jpg" alt=""></a>
+      <article class="one_third first"><a href="kelasa.php"><img class="btmspace-30" src="images/demo/01.jpg" alt=""></a>
         <h6 class="nospace heading">Kelas A</h6>
         <ul class="nospace meta">
          
          
         </ul>
         <p>Di kamar ini terdapat&hellip;</p>
-        <footer class="nospace"><a class="btn" href="#">Read More</a></footer>
+        <footer class="nospace">
+		<a class="btn" href="<?php echo base_url(); ?>index.php/web/kelasa">Read More</a>
+		</footer>
       </article>
       <article class="one_third"><a href="#"><img class="btmspace-30" src="images/demo/02.jpg" alt=""></a>
         <h6 class="nospace heading">Kelas B</h6>
