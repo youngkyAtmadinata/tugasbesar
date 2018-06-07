@@ -35,9 +35,9 @@
 		
       <li><a class="drop" href="#">GALERI</a>
         <ul>
-		  <li><a href="pages/sidebar-left.html"></a>Kelas A</li>
-          <li><a href="pages/gallery.html"></a>Kelas B</li>
-          <li><a href="pages/full-width.html"></a>Kelas C</li>
+ 	<li><a href="pages/sidebar-left.html">Kelas A</a></li>
+        <li><a href="pages/gallery.html">Kelas B</a></li>
+        <li><a href="pages/full-width.html">Kelas C</a></li>
         </ul>
       </li>
 
