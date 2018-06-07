@@ -13,5 +13,10 @@ class Web extends CI_Controller {
 		$this->load->view('v_index',$data);
 	}
 	
+	function kelasa(){		
+		$data['kelasa'] = "Halaman kelasa";
+		$this->load->view('kelasa',$data);
+	}
+	
 
 }
